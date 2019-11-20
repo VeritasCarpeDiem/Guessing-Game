@@ -1,5 +1,8 @@
 c++ Console Game
-# Hangman Guessing-Game
+# Hangman Guessing-Game and Reverse Guessing Game
+{
+	concepts used: If/else, loops, arrays, functions, structs, enum class, pointers, binary search algorithm
+}
 Guessing Game(Work in Progress)
 1. When the program runs, the user is asked for their name
 2. User chooses between "guessing game", "reverse guessing game" , and "exit"
