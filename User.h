@@ -1,6 +1,7 @@
 #pragma once
 
 #include <string>
+#include <iostream>
 
 using namespace std;
 
@@ -10,6 +11,7 @@ private:
 	string name;
 public:
 	User(string tname);
+	void sayHello();
 
 };
 

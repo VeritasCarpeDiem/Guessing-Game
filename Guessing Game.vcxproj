@@ -127,10 +127,12 @@
     <ClCompile Include="User.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <Media Include="bensound-theelevatorbossanova.wav" />
+    <ClInclude Include="User.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="User.h" />
+    <Media Include="Creative Minds.wav" />
+    <Media Include="Lose Endscreen.wav" />
+    <Media Include="Win Endscreen.wav" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

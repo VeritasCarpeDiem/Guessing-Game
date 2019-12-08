@@ -1,6 +1,11 @@
 #include "User.h"
 
-User::User(std::string tname)
+User::User(string tname)
 {
 	name = tname;
+}
+
+void User::sayHello()
+{
+	std::cout << "Hello! from " << name << std::endl;
 }

@@ -23,13 +23,19 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Media Include="bensound-theelevatorbossanova.wav">
-      <Filter>Source Files</Filter>
-    </Media>
-  </ItemGroup>
-  <ItemGroup>
     <ClInclude Include="User.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="Creative Minds.wav">
+      <Filter>Source Files</Filter>
+    </Media>
+    <Media Include="Lose Endscreen.wav">
+      <Filter>Source Files</Filter>
+    </Media>
+    <Media Include="Win Endscreen.wav">
+      <Filter>Source Files</Filter>
+    </Media>
   </ItemGroup>
 </Project>
